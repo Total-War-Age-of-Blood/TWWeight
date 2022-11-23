@@ -1,0 +1,5 @@
+name: TWWeight
+version: '${project.version}'
+main: com.ethan.twweight.TWWeight
+api-version: 1.19
+description: Making Shulker Boxes weigh players down
